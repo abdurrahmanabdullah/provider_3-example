@@ -1,3 +1,5 @@
 import 'package:flutter/cupertino.dart';
 
-class CheckLove extends ChangeNotifier {}
+class CheckLove extends ChangeNotifier {
+  void call() {}
+}
